@@ -598,6 +598,14 @@ editMenu.addMenuListener(editMenuListener);
 f.setJMenuBar(mb);  
 }  
 
+/*************Constructor**************/  
+////////////////////////////////////  
+public static void main(String[] s)  
+{  
+new Notepad();  
+}  
+}  
+/**************************************/
 //public  
 interface MenuConstants  
 {  
